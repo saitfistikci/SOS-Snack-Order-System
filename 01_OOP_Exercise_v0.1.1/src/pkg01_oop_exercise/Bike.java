@@ -7,7 +7,7 @@ package pkg01_oop_exercise;
 
 /**
  *
- * @author Sait Fistikci
+ * @author TEST
  */
 public class Bike {
 
